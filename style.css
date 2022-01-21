@@ -1,9 +1,5 @@
 * {box-sizing: border-box;}
 
-img {
-  text-align: center;
-}
-
 header, body {
   padding: 40px;
   margin: 0px;
@@ -17,7 +13,8 @@ body {
   background: rgb(248, 230, 191);
 }
 
-footer {height:125%;}
+footer {height:125%;
+text-align: center;}
 
 h1, h2, h3, h4 {
   text-align: center;
