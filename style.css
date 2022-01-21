@@ -9,7 +9,7 @@ header, body {
   margin: 0px;
 }
 
-header {
+header, footer {
   background: #81738d;
   border-radius: 25px;}
 
