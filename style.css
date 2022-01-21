@@ -17,6 +17,8 @@ body {
   background: rgb(248, 230, 191);
 }
 
+footer {height:75%;}
+
 h1, h2, h3, h4 {
   text-align: center;
 }
